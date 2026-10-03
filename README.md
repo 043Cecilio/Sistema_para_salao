@@ -64,24 +64,24 @@ cabeleireira-leila/
 
 | Funcionalidade | Status |
 |---|---|
-| Modelagem de dados (Agendamento, Cliente, Serviço) | ✅ Concluído |
-| CRUD completo de agendamentos | ✅ Concluído |
-| Sistema de status (Pendente, Confirmado, Cancelado) | ✅ Concluído |
-| Cálculo de faturamento em tempo real | ✅ Concluído |
-| Filtros por período de busca | ✅ Concluído |
-| Sugestão automática de agrupamento de serviços | ✅ Concluído |
-| Travas de segurança contra exclusões acidentais | ✅ Concluído |
+| Modelagem de dados (Agendamento, Cliente, Serviço) |  Concluído |
+| CRUD completo de agendamentos |  Concluído |
+| Sistema de status (Pendente, Confirmado, Cancelado) |  Concluído |
+| Cálculo de faturamento em tempo real |  Concluído |
+| Filtros por período de busca | Concluído |
+| Sugestão automática de agrupamento de serviços |  Concluído |
+| Travas de segurança contra exclusões acidentais |  Concluído |
 
 ### Front-end — HTML5 + CSS3 + Bootstrap 5
 
 | Funcionalidade | Status |
 |---|---|
-| Layout responsivo com Bootstrap 5 | ✅ Concluído |
-| Identidade visual customizada (Custom Design) | ✅ Concluído |
-| Ícones via Font Awesome 6 | ✅ Concluído |
-| Tela de histórico de agendamentos | ✅ Concluído |
-| Painel gerencial (Dashboard) com faturamento | ✅ Concluído |
-| Formulários de cadastro e edição | ✅ Concluído |
+| Layout responsivo com Bootstrap 5 |  Concluído |
+| Identidade visual customizada (Custom Design) |  Concluído |
+| Ícones via Font Awesome 6 |  Concluído |
+| Tela de histórico de agendamentos |  Concluído |
+| Painel gerencial (Dashboard) com faturamento |  Concluído |
+| Formulários de cadastro e edição |  Concluído |
 
 ---
 
@@ -101,13 +101,13 @@ Cada agendamento possui um ciclo de vida (Pendente → Confirmado → Cancelado)
 ## Roadmap
 
 ```
-[✅] Modelagem de BD (Agendamento, Cliente, Serviço)
-[✅] CRUD completo de agendamentos via Django
-[✅] Sistema de status com atualização dinâmica
-[✅] Painel gerencial com faturamento em tempo real
-[✅] Filtros inteligentes por período
-[✅] Sugestão automática de agrupamento de serviços
-[✅] Travas de segurança para exclusões
+[X] Modelagem de BD (Agendamento, Cliente, Serviço)
+[X] CRUD completo de agendamentos via Django
+[X] Sistema de status com atualização dinâmica
+[X] Painel gerencial com faturamento em tempo real
+[X] Filtros inteligentes por período
+[X] Sugestão automática de agrupamento de serviços
+[X] Travas de segurança para exclusões
 [ ] Autenticação de usuários e controle de acesso
 [ ] Deploy em nuvem
 ```
